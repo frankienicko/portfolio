@@ -200,9 +200,6 @@ input[type=submit] {
     .masthead {  
         width: auto;
     }
-    .logo {
-        width: auto;
-    }
     .nav {
         float: left;
         width: auto;
@@ -213,12 +210,20 @@ input[type=submit] {
         width: auto;
         padding-left: 0;
     }
-    .sidebar {
+    .footer {
+        width: auto
+    }
+    .img {
         float: left;
         width: auto;
     }
-    .footer {
+    h1 {
+        font-size: auto;
         width: auto;
+    }
+    .work {
+        width: auto;
+        float: left;
     }
 }
 
@@ -230,9 +235,6 @@ input[type=submit] {
     .masthead {  
         width: auto;
     }
-    .logo {
-        width: auto;
-    }
     .nav {
         float: left;
         width: auto;
@@ -243,12 +245,20 @@ input[type=submit] {
         width: auto;
         padding-left: 0;
     }
-    .sidebar {
+    .footer {
+        width: auto;
+    }
+    .img {
         float: left;
         width: auto;
     }
-    .footer {
+    h1 {
+        font-size: auto;
         width: auto;
+    }
+     .work {
+        width: auto;
+        float: left;
     }
 }
 
@@ -260,9 +270,6 @@ input[type=submit] {
     .masthead {  
         width: auto;
     }
-    .logo {
-        width: auto;
-    }
     .nav {
         float: left;
         width: auto;
@@ -273,11 +280,24 @@ input[type=submit] {
         width: auto;
         padding-left: 0;
     }
-    .sidebar {
-        float: left;
-        width: auto;
-    }
     .footer {
         width: auto;
     }
+    .img {
+        float: left;
+        margin: 10px;
+        padding: 0;
+        max-width: 100%;
+        height: 100%;
+        
+    } 
+    h1 {
+        font-size: auto;
+        width: auto;
+    }
+     .work {
+        width: auto;
+        float: left;
+    }
+      
 }
